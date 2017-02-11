@@ -1,0 +1,28 @@
+{
+  "name": "comp308-w2017-assignment1",
+  "description": "## COMP 308-Assignment1 ",
+  "main": "server.js",
+  "authors": [
+    "Nitin Rai"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "EJS"
+  ],
+  "homepage": "https://github.com/CentennialCollege/COMP308-Assignment1Portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
