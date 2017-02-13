@@ -1,1 +1,18 @@
 /* Custom CSS goes here */
+
+
+
+
+
+div.footer{
+    text-align: right;
+    background-color:darkgray;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: white;
+}
+
+body {
+    background-color:gainsboro;
+    font-family: Georgia, serif
+}
